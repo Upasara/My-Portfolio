@@ -1,11 +1,9 @@
 import React, { useState } from 'react'
 import './proj.css'
-import IMG11 from '../../assets/mobile12.jpg'
-import IMG12 from '../../assets/mobile11.jpg'
 import IMG13 from '../../assets/mobile13.png'
 import IMG2 from '../../assets/swing.jpg'
 import IMG3 from '../../assets/IOT2.jpg'
-
+import IMG4 from '../../assets/rathaya-ss.png'
 
 // display th list of article using array
 const list = [
@@ -44,7 +42,7 @@ const list = [
   {
     id: 1,
     title:'RATHAYA (User Panel)',
-    image: IMG3,
+    image: IMG4,
     des: 'Explore the future of vehicle maintenance with Rathaya, an innovative web app designed to streamline the process of purchasing auto parts. 🌐 Users can register to discover and order the exact parts they need from a trusted auto shop, all within a few clicks. Our unique features include real-time chat for instant verification 📲, post-delivery payment options for guaranteed satisfaction 💸, and an intuitive admin panel for seamless management. 🖥️ Rathaya ensures a hassle-free shopping experience, delivering reliability right to your doorstep. 🏡',
     github: 'https://github.com/Upasara/auto_part.git',
     demo: 'https://www.facebook.com'
@@ -52,7 +50,7 @@ const list = [
   {
     id: 1,
     title:'RATHAYA (Admin Panel)',
-    image: IMG3,
+    image: IMG4,
     des: 'Take control of your auto parts business with Rathaya’s Admin Panel, engineered to simplify inventory and order management. 📊 This robust backend interface lets shop owners effortlessly input new parts, update details, and monitor stock levels. 🔄 Real-time order tracking ensures that every customer request is met promptly and accurately. 📦 With intuitive controls and a clear dashboard, the Rathaya Admin Panel transforms the complexities of business operations into a streamlined, user-friendly experience. Enhance your shop’s efficiency and customer satisfaction with just a few clicks! 🌟',
     github: 'https://github.com/Upasara/auto_part.git',
     demo: 'https://www.facebook.com'

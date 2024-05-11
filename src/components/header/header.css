@@ -57,27 +57,18 @@ img.header_image{
 /* *************** MEDIA QUERIES (SMALL DEVICES) *************** */
 @media screen and (max-width: 1020px){
     header{
-        height: 100vh;
+        height: 90vh;
     }
 }
 
 /* *************** MEDIA QUERIES (MEDIUM DEVICES) *************** */
 @media screen and (max-width: 600px){
     header{
-        height: 100vh;
+        height: 65vh;
     }
 
     .header_socials{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 1rem;
-        position: absolute;
-        
-        font-size: 1.5rem;
-
-        padding-left:46%;
+        display: none;
     }
 
     

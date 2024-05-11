@@ -1,9 +1,6 @@
 import React from 'react'
 import './skills.css'
-import { FaCheckCircle } from "react-icons/fa";
-import { PiSealCheckFill } from "react-icons/pi";
 import { TbDiscountCheckFilled } from "react-icons/tb";
-import { IoShieldCheckmark } from "react-icons/io5";
 
 const Skills = () => {
   return (
@@ -137,6 +134,20 @@ const Skills = () => {
               <TbDiscountCheckFilled className='skills_details-icon' />
               <div>
                 <h4>C#</h4>
+                <small className="text-small">Intermediate</small>
+              </div>
+            </article>
+            <article className="skills_details">
+              <TbDiscountCheckFilled className='skills_details-icon' />
+              <div>
+                <h4>Github</h4>
+                <small className="text-small">Intermediate</small>
+              </div>
+            </article>
+            <article className="skills_details">
+              <TbDiscountCheckFilled className='skills_details-icon' />
+              <div>
+                <h4>Vercel</h4>
                 <small className="text-small">Intermediate</small>
               </div>
             </article>
