@@ -22,7 +22,7 @@ const list = [
     title:'TeFMaSys (Web App)',
     image: IMG13,
     des: 'A dynamic web application built with React JS designed to bridge the gap between tea factories and local farmers in Sri Lanka. This admin panel facilitates efficient management of user data 📊, processes farmers complaints 📝, and publishes crucial updates 📢. Utilizing Firebase for seamless real-time data syncing, authentication, and push notifications, the dashboard ensures timely communication and operational efficiency. Perfect for streamlining workflows and enhancing the tea collection process, making it easier for administrators to maintain high levels of productivity and engagement. 🌱🚚💼',
-    github: 'https://www.github.com',
+    github: 'https://github.com/Upasara/Upasara-Upasara-Upasara-Tea_Farmer_Management_System-Web_App.git',
     demo: 'https://www.facebook.com'
   },
   {
